@@ -3,3 +3,4 @@
 
 main_app.py -Головний файл
 
+shv;shs'[n]
