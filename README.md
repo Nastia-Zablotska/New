@@ -3,4 +3,3 @@
 
 main_app.py -Головний файл
 
-djkskkdkk
